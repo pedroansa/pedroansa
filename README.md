@@ -1,4 +1,7 @@
-<h2 align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVhMmNmMGU2ZTkyZTdlZGFiOGNhYzliOGUzOWExZWNmOGMzOTdhZSZjdD1z/4YWtPii5cTYzL55iAK/giphy.gif" width="50px"> Hello There! Welcome to my Github! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVhMmNmMGU2ZTkyZTdlZGFiOGNhYzliOGUzOWExZWNmOGMzOTdhZSZjdD1z/4YWtPii5cTYzL55iAK/giphy.gif" width="50px"> </h2>
+![Header](Header.png)
+##### <div align="center">My Pronouns: *He/Him*</div>
+
+<h2 align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVhMmNmMGU2ZTkyZTdlZGFiOGNhYzliOGUzOWExZWNmOGMzOTdhZSZjdD1z/4YWtPii5cTYzL55iAK/giphy.gif" width="50px"> Welcome to my Github! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVhMmNmMGU2ZTkyZTdlZGFiOGNhYzliOGUzOWExZWNmOGMzOTdhZSZjdD1z/4YWtPii5cTYzL55iAK/giphy.gif" width="50px"> </h2>
 
 I'm computer science student from Brazil, actually engaged in a Master degree in Paris. I am very interested in Computer Graphics, Game Development, Rendering, Web and Android development and everything related to interactive systems and 3D. I've done some little things involving data science and Machine Learning.
 
